@@ -29,7 +29,7 @@ _жирный_
 
 
 КОД НА РЕНПАЙ (там питон язык программирования you know?)
-```
+``` python
 image bg room = "room.jpg"
 image bg park = "park.jpg"
 image sollux normal = "s_normal.png"
