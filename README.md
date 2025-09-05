@@ -21,3 +21,29 @@
 И МИР УЖЕ ЦЕЛИКОМ СОШЁЛ С УМАААААААА
 ЗАБЫЛА БЛИН
 Я В ПРНИЧНОМ ДОМИКЕ КРЧ
+
+==================================================
+
+_жирный_
+*курсив*
+
+
+КОД НА РЕНПАЙ (там питон язык программирования you know?)
+```
+image bg room = "room.jpg"
+image bg park = "park.jpg"
+image sollux normal = "s_normal.png"
+image sollux happy = "s_happy.png"
+
+label start:
+    scene bg room
+    show hero normal
+    "Это комната. Я чувствую себя хреново."
+    
+    scene bg park
+    show hero happy
+    "Теперь я на улице, и мне очень хреново!"
+    
+    "Конец истории."
+    return
+```
